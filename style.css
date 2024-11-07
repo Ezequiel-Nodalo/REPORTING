@@ -37,6 +37,28 @@
     padding-left: 80px;
   }
 
+/*John Patrick Hintay*/
+.topic {
+    margin: 10px;
+    }
+
+.content {
+    width: 300px;
+    padding: 50px;
+    border: 15px solid green;
+    margin: 20px; 
+    text-align: center;
+    background-color: lightcyan;
+    }
+
+.hamster {
+    width: 300px;
+    padding: 30px;
+    border: 10px solid burlywood;
+    margin: 20px;
+    text-align: center;
+    }
+
 /* Kian Abante */
 .font-family {
     font-family: 'Courier New', Courier, monospace;
